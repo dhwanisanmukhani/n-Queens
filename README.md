@@ -1,1 +1,2 @@
-n-Queens Problem
+# n-Queens
+n-Queens Puzzle
