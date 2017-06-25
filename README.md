@@ -1,1 +1,1 @@
-# n-Queens
+n-Queens Problem
