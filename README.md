@@ -22,10 +22,10 @@ I have solved this using 'Hill Climbing search with Random Restarts'. We randoml
 # Stats
 
 For n = 20:
-mean    0.512131
-std     0.493332
-min     0.034000
-25%     0.148500
-50%     0.317000
-75%     0.785500
-max     1.640000
+- mean    0.512131
+- std     0.493332
+- min     0.034000
+- 25%     0.148500
+- 50%     0.317000
+- 75%     0.785500
+- max     1.640000
